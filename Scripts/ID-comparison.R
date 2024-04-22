@@ -1,7 +1,7 @@
 ################################################################
 # Title: Comparing otolith and genetic identification methods
 # Author: Lydia Walton
-# Last updated: 1-March-2024
+# Last updated: 12-Apr-2024
 ################################################################
 
 dev.off() #Shut down open graphics devices
@@ -18,17 +18,17 @@ library(kableExtra)
 
 #Import csv files
 genetics <- read.csv("Data/Myct_geneticIDs.csv") #Genetic identifications
-otolith <- read.csv("Data/Myct_otolithIDs.csv") #Otolith identifications
+visual <- read.csv("Data/Myct_otolithIDs_comparison.csv") #visual identifications (specimen + otolith morphology)
 
 
 #----------Identification methods comparison
 
-#Merge the two csv's together so you can compare the ID's
-mergedID <- merge(otolith, genetics, by="Sample.ID")
+#Merge the two csv's together so you can compare the ID's (removes samples that don't have data for both ID methods)
+mergedID <- merge(visual, genetics, by="Sample.ID")
 
-#Remove the barcode non-compliant (compliant column = no) and flagged = yes
+#Remove the barcode non-compliant and flagged samples
 mergedID.filtered <- mergedID %>% 
-  filter(Barcode.Compliant == "Yes" & Flagged.Record == "")
+  filter(Remove.these.samples == "N")
 
 #Now compare the Identification column (genetics) to the Otolith.ID column (otoliths)
 mergedID.subset <- mergedID.filtered %>% 
@@ -47,7 +47,7 @@ mergedID.comparison <- mergedID.subset %>%
     group_by(Final_ID) %>% 
     summarise("Otolith ID" = length(Final_ID)))
 
-#We have 191 Otolith IDs that match the genetics and 25 that do not (216 total)
+#We have 214 Visual IDs that match the Genetic IDs and 26 that do not (240 total)
 
 
 #Make a table showing which species were mismatched
@@ -62,7 +62,7 @@ sample.size.table.genetics <- mergedID.comparison %>%
    group_by(Genetic.ID) %>% 
    summarise("Sample size" = length(Sample.ID))
 
-##Otoliths (used merged.ID dataframe to keep all possible otoliths (even ones flagged by DNA barcoding))
+##Visual (used merged.ID dataframe to keep all possible otoliths (even ones flagged by DNA barcoding))
 sample.size.table.oto <- mergedID.comparison %>% 
     group_by(Otolith.ID) %>% 
     summarise("Sample size" = length(Sample.ID))

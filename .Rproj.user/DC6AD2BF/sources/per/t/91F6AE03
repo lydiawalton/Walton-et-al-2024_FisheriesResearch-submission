@@ -1,0 +1,26 @@
+{
+    "id": "91F6AE03",
+    "path": "~/GitHub/Walton-et-al-2024_FisheriesResearch-submission/Scripts/Geometric-morphometric-analysis.R",
+    "project_path": "Scripts/Geometric-morphometric-analysis.R",
+    "type": "r_source",
+    "hash": "725481290",
+    "contents": "",
+    "dirty": false,
+    "created": 1712951221824.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "262,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1712963135,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1712963135701,
+    "read_only": false,
+    "read_only_alternatives": []
+}

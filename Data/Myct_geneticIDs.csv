@@ -1,285 +1,288 @@
-Sample ID,Field ID,Barcode Compliant,Flagged Record,Collection Date,Year,Identification,Extra Info
-2021_13_1_185_1,2021_13_1_185_1,Yes,,21-Aug-21,2021,Stenobrachius leucopsarus,Set 1
-2021_13_1_185_2,2021_13_1_185_2,Yes,,21-Aug-21,2021,Stenobrachius leucopsarus,Set 1
-2021_13_1_185_3,2021_13_1_185_3,Yes,,21-Aug-21,2021,Symbolophorus californiensis,Set 1
-2021_13_1_185_4,2021_13_1_185_4,Yes,,21-Aug-21,2021,Stenobrachius leucopsarus,Set 1
-2021_13_1_185_5,2021_13_1_185_5,Yes,,21-Aug-21,2021,Tarletonbeania crenularis,Set 1
-2021_13_1_189_1,2021_13_1_189_1,Yes,,21-Aug-21,2021,Diaphus theta,Set 1
-2021_13_1_189_2,2021_13_1_189_2,Yes,,21-Aug-21,2021,Diaphus theta,Set 1
-2021_13_1_189_3,2021_13_1_189_3,Yes,,21-Aug-21,2021,Diaphus theta,Set 1
-2021_13_1_189_4,2021_13_1_189_4,Yes,,21-Aug-21,2021,Diaphus theta,Set 1
-2021_13_1_189_5,2021_13_1_189_5,Yes,,21-Aug-21,2021,Diaphus theta,Set 1
-2021_13_1_189_6,2021_13_1_189_6,Yes,,21-Aug-21,2021,Diaphus theta,Set 1
-2021_13_1_189_7,2021_13_1_189_7,Yes,,21-Aug-21,2021,Diaphus theta,Set 1
-2021_13_1_189_8,2021_13_1_189_8,Yes,,21-Aug-21,2021,Diaphus theta,Set 1
-2021_13_1_189_9,2021_13_1_189_9,Yes,,21-Aug-21,2021,Diaphus theta,Set 1
-2021_13_1_189_10,2021_13_1_189_10,Yes,,21-Aug-21,2021,Diaphus theta,Set 1
-2021_13_12_193_1,2021_13_12_193_1,Yes,Yes,01-Sep-21,2021,Lampanyctus regalis,Set 12
-2021_13_12_193_2,2021_13_12_193_2,Yes,,01-Sep-21,2021,Lampanyctus regalis,Set 12
-2021_13_12_193_3,2021_13_12_193_3,Yes,,01-Sep-21,2021,Lampanyctus regalis,Set 12
-2021_13_12_193_4,2021_13_12_193_4,Yes,,01-Sep-21,2021,Lampanyctus regalis,Set 12
-2021_13_12_193_5,2021_13_12_193_5,Yes,,01-Sep-21,2021,Lampanyctus regalis,Set 12
-2021_13_12_193_6,2021_13_12_193_6,Yes,,01-Sep-21,2021,Lampanyctus regalis,Set 12
-2021_13_12_193_7,2021_13_12_193_7,Yes,,01-Sep-21,2021,Lampanyctus regalis,Set 12
-2021_MQ_193_1,2021_MQ_193_1,No,,,2021,Lampanyctus regalis,WCVI 2021_exact location unknown
-2021_13_12_185_9,2021_13_12_185_9,No,,01-Sep-21,2021,Myctophidae,Set 12
-2021_13_12_185_1,2021_13_12_185_1,Yes,,01-Sep-21,2021,Lampanyctus ritteri,Set 12
-2021_13_12_185_11,2021_13_12_185_11,Yes,,01-Sep-21,2021,Stenobrachius leucopsarus,Set 12
-2021_13_12_189_1,2021_13_12_189_1,Yes,,01-Sep-21,2021,Diaphus theta,Set 12
-2021_13_12_189_2,2021_13_12_189_2,Yes,,01-Sep-21,2021,Diaphus theta,Set 12
-2021_13_12_189_3,2021_13_12_189_3,No,,01-Sep-21,2021,Diaphus theta,Set 12
-2021_13_12_189_4,2021_13_12_189_4,Yes,,01-Sep-21,2021,Diaphus theta,Set 12
-2021_13_12_189_5,2021_13_12_189_5,Yes,,01-Sep-21,2021,Diaphus theta,Set 12
-2021_13_12_189_6,2021_13_12_189_6,Yes,,01-Sep-21,2021,Stenobrachius leucopsarus,Set 12
-2021_13_12_185_2,2021_13_12_185_2,Yes,,01-Sep-21,2021,Lampanyctus ritteri,Set 12
-2021_13_12_185_3,2021_13_12_185_3,Yes,,01-Sep-21,2021,Lampanyctus ritteri,Set 12
-2021_13_12_185_4,2021_13_12_185_4,Yes,,01-Sep-21,2021,Lampanyctus ritteri,Set 12
-2021_13_12_185_5,2021_13_12_185_5,Yes,,01-Sep-21,2021,Lampanyctus ritteri,Set 12
-2021_13_12_185_6,2021_13_12_185_6,Yes,,01-Sep-21,2021,Lampanyctus ritteri,Set 12
-2021_13_12_185_7,2021_13_12_185_7,Yes,,01-Sep-21,2021,Lampanyctus ritteri,Set 12
-2021_13_12_185_8,2021_13_12_185_8,Yes,,01-Sep-21,2021,Lampanyctus ritteri,Set 12
-2021_13_12_843_1,2021_13_12_843_1,Yes,,01-Sep-21,2021,Tactostoma macropus,Set 12
-2021_13_12_178_1,2021_13_12_178_1,No,Yes,01-Sep-21,2021,Gonostomatidae,Set 12
-2021_13_13_182_1,2021_13_13_182_1,Yes,Yes,02-Sep-21,2021,Lestidiops ringens,Set 13
-2021_13_13_182_2,2021_13_13_182_2,Yes,Yes,02-Sep-21,2021,Lestidiops ringens,Set 13
-2021_13_13_182_3,2021_13_13_182_3,Yes,Yes,02-Sep-21,2021,Lestidiops ringens,Set 13
-2021_13_13_182_4,2021_13_13_182_4,Yes,Yes,02-Sep-21,2021,Lestidiops ringens,Set 13
-2021_13_13_182_5,2021_13_13_182_5,Yes,Yes,02-Sep-21,2021,Lestidiops ringens,Set 13
-2021_13_13_182_6,2021_13_13_182_6,Yes,Yes,02-Sep-21,2021,Lestidiops ringens,Set 13
-2021_13_13_182_7,2021_13_13_182_7,Yes,Yes,02-Sep-21,2021,Lestidiops ringens,Set 13
-2021_13_13_182_8,2021_13_13_182_8,Yes,Yes,02-Sep-21,2021,Lestidiops ringens,Set 13
-2021_13_13_182_9,2021_13_13_182_9,Yes,Yes,02-Sep-21,2021,Lestidiops ringens,Set 13
-2021_13_13_182_10,2021_13_13_182_10,Yes,Yes,02-Sep-21,2021,Lestidiops ringens,Set 13
-2021_13_13_182_11,2021_13_13_182_11,Yes,Yes,02-Sep-21,2021,Benthalbella dentata,Set 13
-2021_13_13_182_12,2021_13_13_182_12,Yes,Yes,02-Sep-21,2021,Lestidiops ringens,Set 13
-2021_13_13_180_1,2021_13_13_180_1,Yes,,02-Sep-21,2021,Lestidiops ringens,Set 13
-2021_13_13_180_2,2021_13_13_180_2,Yes,,02-Sep-21,2021,Lestidiops ringens,Set 13
-2021_13_13_180_3,2021_13_13_180_3,Yes,,02-Sep-21,2021,Lestidiops ringens,Set 13
-2021_13_13_197_1,2021_13_13_197_1,No,,02-Sep-21,2021,Stenobrachius leucopsarus,Set 13
-2021_13_12_185_10,2021_13_12_185_10,Yes,,01-Sep-21,2021,Lampanyctus ritteri,Set 12
-2021_13_13_197_2,2021_13_13_197_2,Yes,Yes,02-Sep-21,2021,Lampanyctus ritteri,Set 13
-2021_13_13_197_4,2021_13_13_197_4,Yes,,02-Sep-21,2021,Stenobrachius leucopsarus,Set 13
-2021_13_13_197_3,2021_13_13_197_3,Yes,Yes,02-Sep-21,2021,Lampanyctus ritteri,Set 13
-2021_13_13_197_6,2021_13_13_197_6,Yes,,02-Sep-21,2021,Stenobrachius leucopsarus,Set 13
-2021_13_13_197_7,2021_13_13_197_7,Yes,,02-Sep-21,2021,Stenobrachius leucopsarus,Set 13
-2021_13_13_197_5,2021_13_13_197_5,Yes,Yes,02-Sep-21,2021,Lampanyctus ritteri,Set 13
-2021_13_13_197_8,2021_13_13_197_8,Yes,Yes,02-Sep-21,2021,Lampanyctus ritteri,Set 13
-2021_13_13_197_10,2021_13_13_197_10,Yes,,02-Sep-21,2021,Stenobrachius leucopsarus,Set 13
-2021_13_13_171_1,2021_13_13_171_1,Yes,,02-Sep-21,2021,Chauliodus macouni,Set 13
-2021_13_13_171_2,2021_13_13_171_2,Yes,,02-Sep-21,2021,Chauliodus macouni,Set 13
-2021_13_13_171_3,2021_13_13_171_3,Yes,,02-Sep-21,2021,Chauliodus macouni,Set 13
-2021_13_13_171_4,2021_13_13_171_4,Yes,,02-Sep-21,2021,Chauliodus macouni,Set 13
-2021_13_13_171_5,2021_13_13_171_5,Yes,,02-Sep-21,2021,Chauliodus macouni,Set 13
-2021_13_13_171_6,2021_13_13_171_6,Yes,,02-Sep-21,2021,Chauliodus macouni,Set 13
-2021_13_13_171_7,2021_13_13_171_7,Yes,,02-Sep-21,2021,Chauliodus macouni,Set 13
-2021_13_13_171_8,2021_13_13_171_8,Yes,,02-Sep-21,2021,Chauliodus macouni,Set 13
-2021_13_13_171_9,2021_13_13_171_9,Yes,,02-Sep-21,2021,Chauliodus macouni,Set 13
-2021_13_13_171_10,2021_13_13_171_10,Yes,,02-Sep-21,2021,Chauliodus macouni,Set 13
-2021_13_13_171_11,2021_13_13_171_11,Yes,,02-Sep-21,2021,Chauliodus macouni,Set 13
-2021_13_13_171_12,2021_13_13_171_12,Yes,,02-Sep-21,2021,Chauliodus macouni,Set 13
-2021_13_13_167_1,2021_13_13_167_1,Yes,,02-Sep-21,2021,Tactostoma macropus,Set 13
-2021_13_13_167_2,2021_13_13_167_2,Yes,,02-Sep-21,2021,Tactostoma macropus,Set 13
-2021_13_13_167_3,2021_13_13_167_3,Yes,,02-Sep-21,2021,Tactostoma macropus,Set 13
-2021_13_13_167_4,2021_13_13_167_4,Yes,,02-Sep-21,2021,Tactostoma macropus,Set 13
-2021_13_13_167_5,2021_13_13_167_5,Yes,,02-Sep-21,2021,Tactostoma macropus,Set 13
-2021_13_13_167_6,2021_13_13_167_6,Yes,,02-Sep-21,2021,Tactostoma macropus,Set 13
-2021_13_13_167_7,2021_13_13_167_7,No,,02-Sep-21,2021,Tactostoma macropus,Set 13
-2021_13_13_167_8,2021_13_13_167_8,Yes,,02-Sep-21,2021,Tactostoma macropus,Set 13
-2021_13_13_167_9,2021_13_13_167_9,Yes,,02-Sep-21,2021,Tactostoma macropus,Set 13
-2021_13_13_167_10,2021_13_13_167_10,Yes,,02-Sep-21,2021,Tactostoma macropus,Set 13
-2021_13_13_167_11,2021_13_13_167_11,Yes,,02-Sep-21,2021,Tactostoma macropus,Set 13
-2021_13_13_167_12,2021_13_13_167_12,Yes,,02-Sep-21,2021,Tactostoma macropus,Set 13
-2021_13_18_171_1,2021_13_18_171_1,Yes,,09-Sep-21,2021,Chauliodus macouni,Set 18
-2021_13_18_171_2,2021_13_18_171_2,Yes,,09-Sep-21,2021,Chauliodus macouni,Set 18
-2021_13_18_171_3,2021_13_18_171_3,Yes,,09-Sep-21,2021,Chauliodus macouni,Set 18
-2021_13_18_171_4,2021_13_18_171_4,Yes,,09-Sep-21,2021,Chauliodus macouni,Set 18
-2021_13_18_171_5,2021_13_18_171_5,Yes,,09-Sep-21,2021,Chauliodus macouni,Set 18
-2021_13_18_171_6,2021_13_18_171_6,Yes,,09-Sep-21,2021,Chauliodus macouni,Set 18
-2021_13_18_171_7,2021_13_18_171_7,Yes,,09-Sep-21,2021,Chauliodus macouni,Set 18
-2021_13_18_171_8,2021_13_18_171_8,Yes,,09-Sep-21,2021,Chauliodus macouni,Set 18
-2021_13_18_171_9,2021_13_18_171_9,Yes,,09-Sep-21,2021,Chauliodus macouni,Set 18
-2021_13_18_171_10,2021_13_18_171_10,Yes,,09-Sep-21,2021,Chauliodus macouni,Set 18
-2021_13_18_173_1,2021_13_18_173_1,Yes,,09-Sep-21,2021,Sagamichthys abei,Set 18
-2021_13_18_182_1,2021_13_18_182_1,Yes,,09-Sep-21,2021,Arctozenus risso,Set 18
-2021_13_18_182_2,2021_13_18_182_2,Yes,,09-Sep-21,2021,Arctozenus risso,Set 18
-2021_13_18_182_3,2021_13_18_182_3,Yes,,09-Sep-21,2021,Arctozenus risso,Set 18
-2021_13_18_182_4,2021_13_18_182_4,Yes,,09-Sep-21,2021,Arctozenus risso,Set 18
-2021_13_18_182_5,2021_13_18_182_5,Yes,,09-Sep-21,2021,Arctozenus risso,Set 18
-2021_13_18_182_6,2021_13_18_182_6,Yes,,09-Sep-21,2021,Arctozenus risso,Set 18
-2021_13_18_182_7,2021_13_18_182_7,Yes,,09-Sep-21,2021,Arctozenus risso,Set 18
-2021_13_18_182_8,2021_13_18_182_8,Yes,,09-Sep-21,2021,Arctozenus risso,Set 18
-2021_13_18_182_9,2021_13_18_182_9,Yes,,09-Sep-21,2021,Arctozenus risso,Set 18
-2021_13_18_182_10,2021_13_18_182_10,Yes,,09-Sep-21,2021,Arctozenus risso,Set 18
-2021_13_18_179_1,2021_13_18_179_1,Yes,,09-Sep-21,2021,Benthalbella dentata,Set 18
-2021_13_18_179_2,2021_13_18_179_2,Yes,,09-Sep-21,2021,Benthalbella dentata,Set 18
-2021_13_18_179_3,2021_13_18_179_3,Yes,,09-Sep-21,2021,Benthalbella dentata,Set 18
-2021_13_18_189_1,2021_13_18_189_1,Yes,,09-Sep-21,2021,Diaphus theta,Set 18
-2021_13_18_189_2,2021_13_18_189_2,Yes,,09-Sep-21,2021,Diaphus theta,Set 18
-2021_13_18_189_3,2021_13_18_189_3,Yes,,09-Sep-21,2021,Diaphus theta,Set 18
-2021_13_18_189_4,2021_13_18_189_4,Yes,,09-Sep-21,2021,Diaphus theta,Set 18
-2021_13_18_189_5,2021_13_18_189_5,Yes,,09-Sep-21,2021,Diaphus theta,Set 18
-2021_13_18_189_6,2021_13_18_189_6,Yes,,09-Sep-21,2021,Diaphus theta,Set 18
-2021_13_18_189_7,2021_13_18_189_7,Yes,,09-Sep-21,2021,Diaphus theta,Set 18
-2021_13_13_197_9,2021_13_13_197_9,Yes,Yes,02-Sep-21,2021,Lampanyctus ritteri,Set 13
-2021_13_18_197_2,2021_13_18_197_2,Yes,,09-Sep-21,2021,Stenobrachius leucopsarus,Set 18
-2021_13_18_197_3,2021_13_18_197_3,Yes,,09-Sep-21,2021,Stenobrachius leucopsarus,Set 18
-2021_13_18_197_4,2021_13_18_197_4,Yes,,09-Sep-21,2021,Notoscopelus,Set 18
-2021_13_18_197_5,2021_13_18_197_5,Yes,,09-Sep-21,2021,Stenobrachius leucopsarus,Set 18
-2021_13_18_197_6,2021_13_18_197_6,Yes,,09-Sep-21,2021,Stenobrachius leucopsarus,Set 18
-2021_13_18_197_7,2021_13_18_197_7,No,,09-Sep-21,2021,Myctophidae,Set 18
-2021_13_18_197_8,2021_13_18_197_8,No,,09-Sep-21,2021,Myctophidae,Set 18
-2021_13_18_197_1,2021_13_18_197_1,Yes,Yes,09-Sep-21,2021,Lampanyctus ritteri,Set 18
-2021_13_18_197_9,2021_13_18_197_9,Yes,Yes,09-Sep-21,2021,Lampanyctus ritteri,Set 18
-2021_13_18_653_1,2021_13_18_653_1,Yes,,09-Sep-21,2021,Gonostomatidae,Set 18
-2021_13_18_167_1,2021_13_18_167_1,Yes,,09-Sep-21,2021,Tactostoma macropus,Set 18
-2021_13_18_167_2,2021_13_18_167_2,Yes,,09-Sep-21,2021,Tactostoma macropus,Set 18
-2021_13_18_167_3,2021_13_18_167_3,Yes,,09-Sep-21,2021,Tactostoma macropus,Set 18
-2021_13_18_167_4,2021_13_18_167_4,Yes,,09-Sep-21,2021,Tactostoma macropus,Set 18
-2021_13_18_167_5,2021_13_18_167_5,Yes,,09-Sep-21,2021,Tactostoma macropus,Set 18
-2021_13_18_165_1,2021_13_18_165_1,Yes,,09-Sep-21,2021,Bathophilus flemingi,Set 18
-2021_13_2_185_1,2021_13_2_185_1,Yes,,22-Aug-21,2021,Stenobrachius leucopsarus,Set 2
-2021_13_2_185_2,2021_13_2_185_2,Yes,,22-Aug-21,2021,Stenobrachius leucopsarus,Set 2
-2021_13_18_197_10,2021_13_18_197_10,Yes,Yes,09-Sep-21,2021,Lampanyctus ritteri,Set 18
-2021_13_2_185_4,2021_13_2_185_4,Yes,,22-Aug-21,2021,Stenobrachius leucopsarus,Set 2
-2021_13_2_185_5,2021_13_2_185_5,Yes,,22-Aug-21,2021,Stenobrachius leucopsarus,Set 2
-2021_13_2_185_3,2021_13_2_185_3,Yes,,22-Aug-21,2021,Lampanyctus ritteri,Set 2
-2021_13_2_185_7,2021_13_2_185_7,Yes,,22-Aug-21,2021,Stenobrachius leucopsarus,Set 2
-2021_13_2_185_8,2021_13_2_185_8,Yes,,22-Aug-21,2021,Stenobrachius leucopsarus,Set 2
-2021_13_2_185_9,2021_13_2_185_9,Yes,,22-Aug-21,2021,Stenobrachius leucopsarus,Set 2
-2021_13_2_185_10,2021_13_2_185_10,Yes,,22-Aug-21,2021,Stenobrachius leucopsarus,Set 2
-2021_13_2_189_1,2021_13_2_189_1,Yes,,22-Aug-21,2021,Diaphus theta,Set 2
-2021_13_2_189_2,2021_13_2_189_2,Yes,,22-Aug-21,2021,Diaphus theta,Set 2
-2021_13_2_189_3,2021_13_2_189_3,Yes,,22-Aug-21,2021,Diaphus theta,Set 2
-2021_13_2_189_4,2021_13_2_189_4,Yes,,22-Aug-21,2021,Diaphus theta,Set 2
-2021_13_2_189_5,2021_13_2_189_5,Yes,,22-Aug-21,2021,Diaphus theta,Set 2
-2021_13_2_189_6,2021_13_2_189_6,Yes,,22-Aug-21,2021,Diaphus theta,Set 2
-2021_13_2_189_7,2021_13_2_189_7,Yes,,22-Aug-21,2021,Diaphus theta,Set 2
-2021_13_2_189_8,2021_13_2_189_8,Yes,,22-Aug-21,2021,Diaphus theta,Set 2
-2021_13_2_189_9,2021_13_2_189_9,Yes,,22-Aug-21,2021,Diaphus theta,Set 2
-2021_13_2_189_10,2021_13_2_189_10,Yes,,22-Aug-21,2021,Diaphus theta,Set 2
-2021_13_3_185_1,2021_13_3_185_1,Yes,,23-Aug-21,2021,Stenobrachius leucopsarus,Set 3
-2021_13_3_189_1,2021_13_3_189_1,Yes,,23-Aug-21,2021,Diaphus theta,Set 3
-2021_13_3_189_2,2021_13_3_189_2,Yes,,23-Aug-21,2021,Diaphus theta,Set 3
-2021_13_3_189_3,2021_13_3_189_3,Yes,,23-Aug-21,2021,Diaphus theta,Set 3
-2021_13_3_189_4,2021_13_3_189_4,No,,23-Aug-21,2021,Diaphus theta,Set 3
-2021_13_3_189_5,2021_13_3_189_5,Yes,,23-Aug-21,2021,Diaphus theta,Set 3
-2021_13_3_189_6,2021_13_3_189_6,Yes,,23-Aug-21,2021,Diaphus theta,Set 3
-2021_13_3_189_7,2021_13_3_189_7,Yes,,23-Aug-21,2021,Diaphus theta,Set 3
-2021_13_3_189_8,2021_13_3_189_8,No,,23-Aug-21,2021,Diaphus theta,Set 3
-2021_13_3_189_9,2021_13_3_189_9,Yes,,23-Aug-21,2021,Diaphus theta,Set 3
-2021_13_3_189_10,2021_13_3_189_10,Yes,,23-Aug-21,2021,Diaphus theta,Set 3
-2021_13_4_185_1,2021_13_4_185_1,Yes,,24-Aug-21,2021,Stenobrachius leucopsarus,Set 4
-2021_13_4_185_2,2021_13_4_185_2,Yes,,24-Aug-21,2021,Stenobrachius leucopsarus,Set 4
-2021_13_4_185_3,2021_13_4_185_3,Yes,,24-Aug-21,2021,Stenobrachius leucopsarus,Set 4
-2021_13_4_185_4,2021_13_4_185_4,Yes,,24-Aug-21,2021,Stenobrachius leucopsarus,Set 4
-2021_13_4_185_5,2021_13_4_185_5,Yes,,24-Aug-21,2021,Stenobrachius leucopsarus,Set 4
-2021_13_4_185_6,2021_13_4_185_6,Yes,,24-Aug-21,2021,Stenobrachius leucopsarus,Set 4
-2021_13_4_185_7,2021_13_4_185_7,Yes,,24-Aug-21,2021,Stenobrachius leucopsarus,Set 4
-2021_13_4_185_8,2021_13_4_185_8,Yes,,24-Aug-21,2021,Stenobrachius leucopsarus,Set 4
-2021_13_4_185_9,2021_13_4_185_9,Yes,,24-Aug-21,2021,Stenobrachius leucopsarus,Set 4
-2021_13_4_185_10,2021_13_4_185_10,Yes,,24-Aug-21,2021,Stenobrachius leucopsarus,Set 4
-2021_13_4_185_11,2021_13_4_185_11,Yes,,24-Aug-21,2021,Stenobrachius leucopsarus,Set 4
-2021_13_4_189_1,2021_13_4_189_1,Yes,,24-Aug-21,2021,Diaphus theta,Set 4
-2021_13_4_189_2,2021_13_4_189_2,Yes,,24-Aug-21,2021,Diaphus theta,Set 4
-2021_13_4_189_3,2021_13_4_189_3,Yes,,24-Aug-21,2021,Diaphus theta,Set 4
-2021_13_4_189_4,2021_13_4_189_4,Yes,,24-Aug-21,2021,Diaphus theta,Set 4
-2021_13_4_189_5,2021_13_4_189_5,Yes,,24-Aug-21,2021,Diaphus theta,Set 4
-2021_13_4_189_6,2021_13_4_189_6,Yes,,24-Aug-21,2021,Diaphus theta,Set 4
-2021_13_4_189_7,2021_13_4_189_7,Yes,,24-Aug-21,2021,Diaphus theta,Set 4
-2021_13_4_189_8,2021_13_4_189_8,Yes,,24-Aug-21,2021,Diaphus theta,Set 4
-2021_13_4_189_9,2021_13_4_189_9,Yes,,24-Aug-21,2021,Diaphus theta,Set 4
-2021_13_4_189_10,2021_13_4_189_10,Yes,,24-Aug-21,2021,Diaphus theta,Set 4
-2021_MQ_198_3A,2021_MQ_198_3A,No,,,2021,Stenobrachius leucopsarus,WCVI 2021_exact location unknown
-2021_MQ_200_4,2021_MQ_200_4,Yes,,,2021,Symbolophorus californiensis,WCVI 2021_exact location unknown
-2021_MQ_198_2,2021_MQ_198_2,Yes,,,2021,Stenobrachius leucopsarus,WCVI 2021_exact location unknown
-2021_MQ_200_2,2021_MQ_200_2,Yes,,,2021,Symbolophorus californiensis,WCVI 2021_exact location unknown
-2021_MQ_200_3,2021_MQ_200_3,Yes,,,2021,Symbolophorus californiensis,WCVI 2021_exact location unknown
-2021_13_2_185_6,2021_13_2_185_6,Yes,,22-Aug-21,2021,Lampanyctus ritteri,Set 2
-2021_MQ_196_3,2021_MQ_196_3,Yes,,,2021,Protomyctophum thompsoni,WCVI 2021_exact location unknown
-2021_MQ_193_3B,2021_MQ_193_3B,Yes,Yes,,2021,Stenobrachius leucopsarus,WCVI 2021_exact location unknown
-2021_MQ_193_2,2021_MQ_193_2,Yes,Yes,,2021,Stenobrachius leucopsarus,WCVI 2021_exact location unknown
-2021_MQ_200_1,2021_MQ_200_1,No,,,2021,Symbolophorus californiensis,WCVI 2021_exact location unknown
-2021_MQ_196_1,2021_MQ_196_1,Yes,,,2021,Protomyctophum thompsoni,WCVI 2021_exact location unknown
-2021_MQ_196_2,2021_MQ_196_2,No,,,2021,Protomyctophum thompsoni,WCVI 2021_exact location unknown
-2021_MQ_198_1,2021_MQ_198_1,No,,,2021,Stenobrachius leucopsarus,WCVI 2021_exact location unknown
-2022_14_234_1,2022_14_234_1,No,,28-Aug-22,2022,Lycodapus mandibularis,Set 14
-2022_14_234_2,2022_14_234_2,Yes,,28-Aug-22,2022,Lycodapus,Set 14
-2022_14_234_3,2022_14_234_3,No,,28-Aug-22,2022,Lycodapus mandibularis,Set 14
-2022_14_234_4,2022_14_234_4,No,,28-Aug-22,2022,Lycodapus mandibularis,Set 14
-2022_14_234_5,2022_14_234_5,No,,28-Aug-22,2022,Lycodapus mandibularis,Set 14
-2022_14_234_6,2022_14_234_6,Yes,,28-Aug-22,2022,Lycodapus,Set 14
-2022_14_234_7,2022_14_234_7,Yes,,28-Aug-22,2022,Lycodapus,Set 14
-2022_14_234_8,2022_14_234_8,Yes,,28-Aug-22,2022,Lycodapus,Set 14
-2022_15_UNK_1,2022_15_UNK_1,Yes,,29-Aug-22,2022,Nansenia,Set 15
-2022_15_UNK_2,2022_15_UNK_2,Yes,,29-Aug-22,2022,Nansenia,Set 15
-2022_15_152_1,2022_15_152_1,No,,29-Aug-22,2022,Bathylagus,Set 15
-2022_15_152_2,2022_15_152_2,No,,29-Aug-22,2022,Bathylagus,Set 15
-2022_15_152_3,2022_15_152_3,No,,29-Aug-22,2022,Bathylagus,Set 15
-2022_17_201_1,2022_17_201_1,Yes,Yes,30-Aug-22,2022,Lampadena,Set 17
-2022_17_136_1,2022_17_136_1,Yes,,30-Aug-22,2022,Nansenia,Set 17
-2022_17_136_2,2022_17_136_2,Yes,,30-Aug-22,2022,Nansenia,Set 17
-2022_17_136_3,2022_17_136_3,Yes,,30-Aug-22,2022,Nansenia,Set 17
-2022_17_152_1,2022_17_152_1,No,,30-Aug-22,2022,Sagamichthys abei,Set 17
-2022_18_842_1,2022_18_842_1,Yes,,31-Aug-22,2022,Nansenia,Set 18
-2022_18_201_1,2022_18_201_1,Yes,Yes,31-Aug-22,2022,Lampadena,Set 18
-2022_18_152_1,2022_18_152_1,Yes,,31-Aug-22,2022,Nansenia,Set 18
-2022_18_152_2,2022_18_152_2,Yes,,31-Aug-22,2022,Nansenia,Set 18
-2022_18_152_3,2022_18_152_3,Yes,,31-Aug-22,2022,Nansenia,Set 18
-2022_18_152_4,2022_18_152_4,Yes,,31-Aug-22,2022,Nansenia,Set 18
-2022_18_152_5,2022_18_152_5,Yes,,31-Aug-22,2022,Nansenia,Set 18
-2022_18_202_1,2022_18_202_1,Yes,,31-Aug-22,2022,Tarletonbeania crenularis,Set 18
-2022_18_202_2,2022_18_202_2,Yes,,31-Aug-22,2022,Tarletonbeania crenularis,Set 18
-2022_18_202_3,2022_18_202_3,Yes,,31-Aug-22,2022,Tarletonbeania crenularis,Set 18
-2022_18_202_4,2022_18_202_4,Yes,,31-Aug-22,2022,Tarletonbeania crenularis,Set 18
-2022_18_202_5,2022_18_202_5,Yes,,31-Aug-22,2022,Tarletonbeania crenularis,Set 18
-2022_18_202_6,2022_18_202_6,Yes,,31-Aug-22,2022,Tarletonbeania crenularis,Set 18
-2022_18_202_7,2022_18_202_7,Yes,,31-Aug-22,2022,Tarletonbeania crenularis,Set 18
-2022_18_202_8,2022_18_202_8,Yes,,31-Aug-22,2022,Tarletonbeania crenularis,Set 18
-2022_18_202_9,2022_18_202_9,Yes,,31-Aug-22,2022,Tarletonbeania crenularis,Set 18
-2022_18_202_10,2022_18_202_10,Yes,,31-Aug-22,2022,Tarletonbeania crenularis,Set 18
-2022_19_199_1,2022_19_199_1,Yes,,01-Sep-22,2022,Stenobrachius leucopsarus,Set 19
-2022_20_201_1,2022_20_201_1,No,Yes,01-Sep-22,2022,Lampadena,Set 20
-2022_20_197_1,2022_20_197_1,Yes,Yes,01-Sep-22,2022,Lampanyctus ritteri,Set 20
-2022_20_197_2,2022_20_197_2,Yes,,01-Sep-22,2022,Lampanyctus ritteri,Set 20
-2022_20_197_3,2022_20_197_3,Yes,,01-Sep-22,2022,Stenobrachius leucopsarus,Set 20
-2022_20_197_4,2022_20_197_4,Yes,,01-Sep-22,2022,Lampanyctus ritteri,Set 20
-2022_20_197_5,2022_20_197_5,Yes,,01-Sep-22,2022,Lampanyctus ritteri,Set 20
-2022_20_197_6,2022_20_197_6,Yes,,01-Sep-22,2022,Lampanyctus ritteri,Set 20
-2022_20_197_7,2022_20_197_7,Yes,,01-Sep-22,2022,Lampanyctus ritteri,Set 20
-2022_20_197_8,2022_20_197_8,Yes,,01-Sep-22,2022,Lampanyctus ritteri,Set 20
-2022_20_136_1,2022_20_136_1,Yes,,01-Sep-22,2022,Nansenia,Set 20
-2022_20_136_2,2022_20_136_2,Yes,,01-Sep-22,2022,Nansenia,Set 20
-2022_21_087_1,2022_21_087_1,No,,02-Sep-22,2022,Avocettina infans,Set 21
-2022_21_087_2,2022_21_087_2,No,,02-Sep-22,2022,Avocettina infans,Set 21
-2022_21_136_1,2022_21_136_1,Yes,,02-Sep-22,2022,Nansenia,Set 21
-2022_21_152_1,2022_21_152_1,Yes,,02-Sep-22,2022,Bathylagus pacificus,Set 21
-2022_21_152_2,2022_21_152_2,No,,02-Sep-22,2022,Pseudobathylagus milleri,Set 21
-2022_21_152_3,2022_21_152_3,Yes,,02-Sep-22,2022,Bathylagus pacificus,Set 21
-2022_21_152_4,2022_21_152_4,No,,02-Sep-22,2022,Pseudobathylagus milleri,Set 21
-2022_21_152_5,2022_21_152_5,Yes,,02-Sep-22,2022,Bathylagus pacificus,Set 21
-2022_21_152_6,2022_21_152_6,No,,02-Sep-22,2022,Bathylagus pacificus,Set 21
-2022_21_152_7,2022_21_152_7,No,,02-Sep-22,2022,Pseudobathylagus milleri,Set 21
-2022_21_152_8,2022_21_152_8,Yes,,02-Sep-22,2022,Pseudobathylagus milleri,Set 21
-2022_21_191_1,2022_21_191_1,Yes,Yes,02-Sep-22,2022,Lampanyctus ritteri,Set 21
-2022_21_191_2,2022_21_191_2,Yes,Yes,02-Sep-22,2022,Lampanyctus ritteri,Set 21
-2022_21_191_3,2022_21_191_3,Yes,Yes,02-Sep-22,2022,Lampanyctus ritteri,Set 21
-2022_21_191_4,2022_21_191_4,No,,02-Sep-22,2022,Lampanyctus ritteri,Set 21
-2022_21_191_5,2022_21_191_5,Yes,Yes,02-Sep-22,2022,Lampanyctus ritteri,Set 21
-2022_21_196_1,2022_21_196_1,Yes,,02-Sep-22,2022,Symbolophorus californiensis,Set 21
-2022_21_196_2,2022_21_196_2,Yes,,02-Sep-22,2022,Lampanyctus ritteri,Set 21
-2022_21_196_3,2022_21_196_3,Yes,Yes,02-Sep-22,2022,Stenobrachius leucopsarus,Set 21
-2022_21_199_1,2022_21_199_1,Yes,,02-Sep-22,2022,Stenobrachius nannochir,Set 21
-2022_21_199_2,2022_21_199_2,Yes,,02-Sep-22,2022,Stenobrachius nannochir,Set 21
-2022_21_199_3,2022_21_199_3,Yes,,02-Sep-22,2022,Stenobrachius nannochir,Set 21
-2022_21_202_1,2022_21_202_1,Yes,,02-Sep-22,2022,Tarletonbeania crenularis,Set 21
-2022_21_202_2,2022_21_202_2,Yes,,02-Sep-22,2022,Tarletonbeania crenularis,Set 21
-2022_21_202_3,2022_21_202_3,Yes,,02-Sep-22,2022,Tarletonbeania crenularis,Set 21
-2022_21_202_4,2022_21_202_4,Yes,,02-Sep-22,2022,Tarletonbeania crenularis,Set 21
-2022_21_202_5,2022_21_202_5,Yes,,02-Sep-22,2022,Tarletonbeania crenularis,Set 21
-2022_21_202_6,2022_21_202_6,Yes,,02-Sep-22,2022,Tarletonbeania crenularis,Set 21
-2022_21_202_7,2022_21_202_7,Yes,,02-Sep-22,2022,Tarletonbeania crenularis,Set 21
-2022_21_202_8,2022_21_202_8,Yes,,02-Sep-22,2022,Tarletonbeania crenularis,Set 21
-2022_21_202_9,2022_21_202_9,Yes,,02-Sep-22,2022,Tarletonbeania crenularis,Set 21
-2022_21_202_10,2022_21_202_10,Yes,,02-Sep-22,2022,Tarletonbeania crenularis,Set 21
-2022_21_UNK_1,2022_21_UNK_1,Yes,Yes,02-Sep-22,2022,Melamphaes lugubris,Set 21
-2022_21_UNK_2,2022_21_UNK_2,Yes,Yes,02-Sep-22,2022,Melamphaes lugubris,Set 21
+Sample ID,Field ID,Barcode Compliant,Flagged Record,Collection Date,Year,Identification,Extra Info,Remove.these.samples
+2021_13_18_182_1,2021_13_18_182_1,Yes,,09-Sep-21,2021,Arctozenus risso,Set 18,N
+2021_13_18_182_2,2021_13_18_182_2,Yes,,09-Sep-21,2021,Arctozenus risso,Set 18,N
+2021_13_18_182_3,2021_13_18_182_3,Yes,,09-Sep-21,2021,Arctozenus risso,Set 18,N
+2021_13_18_182_4,2021_13_18_182_4,Yes,,09-Sep-21,2021,Arctozenus risso,Set 18,N
+2021_13_18_182_5,2021_13_18_182_5,Yes,,09-Sep-21,2021,Arctozenus risso,Set 18,N
+2021_13_18_182_6,2021_13_18_182_6,Yes,,09-Sep-21,2021,Arctozenus risso,Set 18,N
+2021_13_18_182_7,2021_13_18_182_7,Yes,,09-Sep-21,2021,Arctozenus risso,Set 18,N
+2021_13_18_182_8,2021_13_18_182_8,Yes,,09-Sep-21,2021,Arctozenus risso,Set 18,N
+2021_13_18_182_9,2021_13_18_182_9,Yes,,09-Sep-21,2021,Arctozenus risso,Set 18,N
+2021_13_18_182_10,2021_13_18_182_10,Yes,,09-Sep-21,2021,Arctozenus risso,Set 18,N
+2022_21_087_1,2022_21_087_1,No,,02-Sep-22,2022,Avocettina infans,Set 21,Y
+2022_21_087_2,2022_21_087_2,No,,02-Sep-22,2022,Avocettina infans,Set 21,Y
+2021_13_18_165_1,2021_13_18_165_1,Yes,,09-Sep-21,2021,Bathophilus flemingi,Set 18,N
+2022_15_152_1,2022_15_152_1,No,,29-Aug-22,2022,Bathylagus,Set 15,Y
+2022_15_152_2,2022_15_152_2,No,,29-Aug-22,2022,Bathylagus,Set 15,Y
+2022_15_152_3,2022_15_152_3,No,,29-Aug-22,2022,Bathylagus,Set 15,Y
+2022_21_152_1,2022_21_152_1,Yes,,02-Sep-22,2022,Bathylagus pacificus,Set 21,N
+2022_21_152_3,2022_21_152_3,Yes,,02-Sep-22,2022,Bathylagus pacificus,Set 21,N
+2022_21_152_5,2022_21_152_5,Yes,,02-Sep-22,2022,Bathylagus pacificus,Set 21,N
+2022_21_152_6,2022_21_152_6,No,,02-Sep-22,2022,Bathylagus pacificus,Set 21,Y
+2021_13_13_182_11,2021_13_13_182_11,Yes,Yes,02-Sep-21,2021,Benthalbella dentata,Set 13,Y
+2021_13_18_179_1,2021_13_18_179_1,Yes,,09-Sep-21,2021,Benthalbella dentata,Set 18,N
+2021_13_18_179_2,2021_13_18_179_2,Yes,,09-Sep-21,2021,Benthalbella dentata,Set 18,N
+2021_13_18_179_3,2021_13_18_179_3,Yes,,09-Sep-21,2021,Benthalbella dentata,Set 18,N
+2021_13_13_171_1,2021_13_13_171_1,Yes,,02-Sep-21,2021,Chauliodus macouni,Set 13,N
+2021_13_13_171_2,2021_13_13_171_2,Yes,,02-Sep-21,2021,Chauliodus macouni,Set 13,N
+2021_13_13_171_3,2021_13_13_171_3,Yes,,02-Sep-21,2021,Chauliodus macouni,Set 13,N
+2021_13_13_171_4,2021_13_13_171_4,Yes,,02-Sep-21,2021,Chauliodus macouni,Set 13,N
+2021_13_13_171_5,2021_13_13_171_5,Yes,,02-Sep-21,2021,Chauliodus macouni,Set 13,N
+2021_13_13_171_6,2021_13_13_171_6,Yes,,02-Sep-21,2021,Chauliodus macouni,Set 13,N
+2021_13_13_171_7,2021_13_13_171_7,Yes,,02-Sep-21,2021,Chauliodus macouni,Set 13,N
+2021_13_13_171_8,2021_13_13_171_8,Yes,,02-Sep-21,2021,Chauliodus macouni,Set 13,N
+2021_13_13_171_9,2021_13_13_171_9,Yes,,02-Sep-21,2021,Chauliodus macouni,Set 13,N
+2021_13_13_171_10,2021_13_13_171_10,Yes,,02-Sep-21,2021,Chauliodus macouni,Set 13,N
+2021_13_13_171_11,2021_13_13_171_11,Yes,,02-Sep-21,2021,Chauliodus macouni,Set 13,N
+2021_13_13_171_12,2021_13_13_171_12,Yes,,02-Sep-21,2021,Chauliodus macouni,Set 13,N
+2021_13_18_171_1,2021_13_18_171_1,Yes,,09-Sep-21,2021,Chauliodus macouni,Set 18,N
+2021_13_18_171_2,2021_13_18_171_2,Yes,,09-Sep-21,2021,Chauliodus macouni,Set 18,N
+2021_13_18_171_3,2021_13_18_171_3,Yes,,09-Sep-21,2021,Chauliodus macouni,Set 18,N
+2021_13_18_171_4,2021_13_18_171_4,Yes,,09-Sep-21,2021,Chauliodus macouni,Set 18,N
+2021_13_18_171_5,2021_13_18_171_5,Yes,,09-Sep-21,2021,Chauliodus macouni,Set 18,N
+2021_13_18_171_6,2021_13_18_171_6,Yes,,09-Sep-21,2021,Chauliodus macouni,Set 18,N
+2021_13_18_171_7,2021_13_18_171_7,Yes,,09-Sep-21,2021,Chauliodus macouni,Set 18,N
+2021_13_18_171_8,2021_13_18_171_8,Yes,,09-Sep-21,2021,Chauliodus macouni,Set 18,N
+2021_13_18_171_9,2021_13_18_171_9,Yes,,09-Sep-21,2021,Chauliodus macouni,Set 18,N
+2021_13_18_171_10,2021_13_18_171_10,Yes,,09-Sep-21,2021,Chauliodus macouni,Set 18,N
+2021_13_1_189_1,2021_13_1_189_1,Yes,,21-Aug-21,2021,Diaphus theta,Set 1,N
+2021_13_1_189_2,2021_13_1_189_2,Yes,,21-Aug-21,2021,Diaphus theta,Set 1,N
+2021_13_1_189_3,2021_13_1_189_3,Yes,,21-Aug-21,2021,Diaphus theta,Set 1,N
+2021_13_1_189_4,2021_13_1_189_4,Yes,,21-Aug-21,2021,Diaphus theta,Set 1,N
+2021_13_1_189_5,2021_13_1_189_5,Yes,,21-Aug-21,2021,Diaphus theta,Set 1,N
+2021_13_1_189_6,2021_13_1_189_6,Yes,,21-Aug-21,2021,Diaphus theta,Set 1,N
+2021_13_1_189_7,2021_13_1_189_7,Yes,,21-Aug-21,2021,Diaphus theta,Set 1,N
+2021_13_1_189_8,2021_13_1_189_8,Yes,,21-Aug-21,2021,Diaphus theta,Set 1,N
+2021_13_1_189_9,2021_13_1_189_9,Yes,,21-Aug-21,2021,Diaphus theta,Set 1,N
+2021_13_1_189_10,2021_13_1_189_10,Yes,,21-Aug-21,2021,Diaphus theta,Set 1,N
+2021_13_12_189_1,2021_13_12_189_1,Yes,,01-Sep-21,2021,Diaphus theta,Set 12,N
+2021_13_12_189_2,2021_13_12_189_2,Yes,,01-Sep-21,2021,Diaphus theta,Set 12,N
+2021_13_12_189_3,2021_13_12_189_3,No,,01-Sep-21,2021,Diaphus theta,Set 12,Y
+2021_13_12_189_4,2021_13_12_189_4,Yes,,01-Sep-21,2021,Diaphus theta,Set 12,N
+2021_13_12_189_5,2021_13_12_189_5,Yes,,01-Sep-21,2021,Diaphus theta,Set 12,N
+2021_13_18_189_1,2021_13_18_189_1,Yes,,09-Sep-21,2021,Diaphus theta,Set 18,N
+2021_13_18_189_2,2021_13_18_189_2,Yes,,09-Sep-21,2021,Diaphus theta,Set 18,N
+2021_13_18_189_3,2021_13_18_189_3,Yes,,09-Sep-21,2021,Diaphus theta,Set 18,N
+2021_13_18_189_4,2021_13_18_189_4,Yes,,09-Sep-21,2021,Diaphus theta,Set 18,N
+2021_13_18_189_5,2021_13_18_189_5,Yes,,09-Sep-21,2021,Diaphus theta,Set 18,N
+2021_13_18_189_6,2021_13_18_189_6,Yes,,09-Sep-21,2021,Diaphus theta,Set 18,N
+2021_13_18_189_7,2021_13_18_189_7,Yes,,09-Sep-21,2021,Diaphus theta,Set 18,N
+2021_13_2_189_1,2021_13_2_189_1,Yes,,22-Aug-21,2021,Diaphus theta,Set 2,N
+2021_13_2_189_2,2021_13_2_189_2,Yes,,22-Aug-21,2021,Diaphus theta,Set 2,N
+2021_13_2_189_3,2021_13_2_189_3,Yes,,22-Aug-21,2021,Diaphus theta,Set 2,N
+2021_13_2_189_4,2021_13_2_189_4,Yes,,22-Aug-21,2021,Diaphus theta,Set 2,N
+2021_13_2_189_5,2021_13_2_189_5,Yes,,22-Aug-21,2021,Diaphus theta,Set 2,N
+2021_13_2_189_6,2021_13_2_189_6,Yes,,22-Aug-21,2021,Diaphus theta,Set 2,N
+2021_13_2_189_7,2021_13_2_189_7,Yes,,22-Aug-21,2021,Diaphus theta,Set 2,N
+2021_13_2_189_8,2021_13_2_189_8,Yes,,22-Aug-21,2021,Diaphus theta,Set 2,N
+2021_13_2_189_9,2021_13_2_189_9,Yes,,22-Aug-21,2021,Diaphus theta,Set 2,N
+2021_13_2_189_10,2021_13_2_189_10,Yes,,22-Aug-21,2021,Diaphus theta,Set 2,N
+2021_13_3_189_1,2021_13_3_189_1,Yes,,23-Aug-21,2021,Diaphus theta,Set 3,N
+2021_13_3_189_2,2021_13_3_189_2,Yes,,23-Aug-21,2021,Diaphus theta,Set 3,N
+2021_13_3_189_3,2021_13_3_189_3,Yes,,23-Aug-21,2021,Diaphus theta,Set 3,N
+2021_13_3_189_4,2021_13_3_189_4,No,,23-Aug-21,2021,Diaphus theta,Set 3,Y
+2021_13_3_189_5,2021_13_3_189_5,Yes,,23-Aug-21,2021,Diaphus theta,Set 3,N
+2021_13_3_189_6,2021_13_3_189_6,Yes,,23-Aug-21,2021,Diaphus theta,Set 3,N
+2021_13_3_189_7,2021_13_3_189_7,Yes,,23-Aug-21,2021,Diaphus theta,Set 3,N
+2021_13_3_189_8,2021_13_3_189_8,No,,23-Aug-21,2021,Diaphus theta,Set 3,Y
+2021_13_3_189_9,2021_13_3_189_9,Yes,,23-Aug-21,2021,Diaphus theta,Set 3,N
+2021_13_3_189_10,2021_13_3_189_10,Yes,,23-Aug-21,2021,Diaphus theta,Set 3,N
+2021_13_4_189_1,2021_13_4_189_1,Yes,,24-Aug-21,2021,Diaphus theta,Set 4,N
+2021_13_4_189_2,2021_13_4_189_2,Yes,,24-Aug-21,2021,Diaphus theta,Set 4,N
+2021_13_4_189_3,2021_13_4_189_3,Yes,,24-Aug-21,2021,Diaphus theta,Set 4,N
+2021_13_4_189_4,2021_13_4_189_4,Yes,,24-Aug-21,2021,Diaphus theta,Set 4,N
+2021_13_4_189_5,2021_13_4_189_5,Yes,,24-Aug-21,2021,Diaphus theta,Set 4,N
+2021_13_4_189_6,2021_13_4_189_6,Yes,,24-Aug-21,2021,Diaphus theta,Set 4,N
+2021_13_4_189_7,2021_13_4_189_7,Yes,,24-Aug-21,2021,Diaphus theta,Set 4,N
+2021_13_4_189_8,2021_13_4_189_8,Yes,,24-Aug-21,2021,Diaphus theta,Set 4,N
+2021_13_4_189_9,2021_13_4_189_9,Yes,,24-Aug-21,2021,Diaphus theta,Set 4,N
+2021_13_4_189_10,2021_13_4_189_10,Yes,,24-Aug-21,2021,Diaphus theta,Set 4,N
+2021_13_12_178_1,2021_13_12_178_1,No,Yes,01-Sep-21,2021,Gonostomatidae,Set 12,Y
+2021_13_18_653_1,2021_13_18_653_1,Yes,,09-Sep-21,2021,Gonostomatidae,Set 18,N
+2022_17_201_1,2022_17_201_1,Yes,Yes,30-Aug-22,2022,Lampadena,Set 17,Y
+2022_18_201_1,2022_18_201_1,Yes,Yes,31-Aug-22,2022,Lampadena,Set 18,Y
+2022_20_201_1,2022_20_201_1,No,Yes,01-Sep-22,2022,Lampadena,Set 20,Y
+2021_13_12_193_1,2021_13_12_193_1,Yes,,01-Sep-21,2021,Lampanyctus regalis,Set 12,N
+2021_13_12_193_2,2021_13_12_193_2,Yes,,01-Sep-21,2021,Lampanyctus regalis,Set 12,N
+2021_13_12_193_3,2021_13_12_193_3,Yes,,01-Sep-21,2021,Lampanyctus regalis,Set 12,N
+2021_13_12_193_4,2021_13_12_193_4,Yes,,01-Sep-21,2021,Lampanyctus regalis,Set 12,N
+2021_13_12_193_5,2021_13_12_193_5,Yes,,01-Sep-21,2021,Lampanyctus regalis,Set 12,N
+2021_13_12_193_6,2021_13_12_193_6,Yes,,01-Sep-21,2021,Lampanyctus regalis,Set 12,N
+2021_13_12_193_7,2021_13_12_193_7,Yes,,01-Sep-21,2021,Lampanyctus regalis,Set 12,N
+2021_MQ_193_1,2021_MQ_193_1,No,,,2021,Lampanyctus regalis,WCVI 2021_exact location unknown,Y
+2021_13_12_185_1,2021_13_12_185_1,Yes,,01-Sep-21,2021,Lampanyctus ritteri,Set 12,N
+2021_13_12_185_2,2021_13_12_185_2,Yes,,01-Sep-21,2021,Lampanyctus ritteri,Set 12,N
+2021_13_12_185_3,2021_13_12_185_3,Yes,,01-Sep-21,2021,Lampanyctus ritteri,Set 12,N
+2021_13_12_185_4,2021_13_12_185_4,Yes,,01-Sep-21,2021,Lampanyctus ritteri,Set 12,N
+2021_13_12_185_5,2021_13_12_185_5,Yes,,01-Sep-21,2021,Lampanyctus ritteri,Set 12,N
+2021_13_12_185_6,2021_13_12_185_6,Yes,,01-Sep-21,2021,Lampanyctus ritteri,Set 12,N
+2021_13_12_185_7,2021_13_12_185_7,Yes,,01-Sep-21,2021,Lampanyctus ritteri,Set 12,N
+2021_13_12_185_8,2021_13_12_185_8,Yes,,01-Sep-21,2021,Lampanyctus ritteri,Set 12,N
+2021_13_12_185_10,2021_13_12_185_10,Yes,,01-Sep-21,2021,Lampanyctus ritteri,Set 12,N
+2021_13_13_197_2,2021_13_13_197_2,Yes,,02-Sep-21,2021,Lampanyctus ritteri,Set 13,N
+2021_13_13_197_3,2021_13_13_197_3,Yes,,02-Sep-21,2021,Lampanyctus ritteri,Set 13,N
+2021_13_13_197_5,2021_13_13_197_5,Yes,,02-Sep-21,2021,Lampanyctus ritteri,Set 13,N
+2021_13_13_197_8,2021_13_13_197_8,Yes,,02-Sep-21,2021,Lampanyctus ritteri,Set 13,N
+2021_13_13_197_9,2021_13_13_197_9,Yes,,02-Sep-21,2021,Lampanyctus ritteri,Set 13,N
+2021_13_18_197_1,2021_13_18_197_1,Yes,,09-Sep-21,2021,Lampanyctus ritteri,Set 18,N
+2021_13_18_197_9,2021_13_18_197_9,Yes,,09-Sep-21,2021,Lampanyctus ritteri,Set 18,N
+2021_13_18_197_10,2021_13_18_197_10,Yes,,09-Sep-21,2021,Lampanyctus ritteri,Set 18,N
+2021_13_2_185_3,2021_13_2_185_3,Yes,,22-Aug-21,2021,Lampanyctus ritteri,Set 2,N
+2021_13_2_185_6,2021_13_2_185_6,Yes,,22-Aug-21,2021,Lampanyctus ritteri,Set 2,N
+2022_20_197_1,2022_20_197_1,Yes,,01-Sep-22,2022,Lampanyctus ritteri,Set 20,N
+2022_20_197_2,2022_20_197_2,Yes,,01-Sep-22,2022,Lampanyctus ritteri,Set 20,N
+2022_20_197_4,2022_20_197_4,Yes,,01-Sep-22,2022,Lampanyctus ritteri,Set 20,N
+2022_20_197_5,2022_20_197_5,Yes,,01-Sep-22,2022,Lampanyctus ritteri,Set 20,N
+2022_20_197_6,2022_20_197_6,Yes,,01-Sep-22,2022,Lampanyctus ritteri,Set 20,N
+2022_20_197_7,2022_20_197_7,Yes,,01-Sep-22,2022,Lampanyctus ritteri,Set 20,N
+2022_20_197_8,2022_20_197_8,Yes,,01-Sep-22,2022,Lampanyctus ritteri,Set 20,N
+2022_21_191_1,2022_21_191_1,Yes,Yes,02-Sep-22,2022,Lampanyctus ritteri,Set 21,Y
+2022_21_191_2,2022_21_191_2,Yes,Yes,02-Sep-22,2022,Lampanyctus ritteri,Set 21,Y
+2022_21_191_3,2022_21_191_3,Yes,Yes,02-Sep-22,2022,Lampanyctus ritteri,Set 21,Y
+2022_21_191_4,2022_21_191_4,No,,02-Sep-22,2022,Lampanyctus ritteri,Set 21,Y
+2022_21_191_5,2022_21_191_5,Yes,Yes,02-Sep-22,2022,Lampanyctus ritteri,Set 21,Y
+2022_21_196_2,2022_21_196_2,Yes,,02-Sep-22,2022,Lampanyctus ritteri,Set 21,N
+2021_13_13_182_1,2021_13_13_182_1,Yes,,02-Sep-21,2021,Lestidiops ringens,Set 13,N
+2021_13_13_182_2,2021_13_13_182_2,Yes,,02-Sep-21,2021,Lestidiops ringens,Set 13,N
+2021_13_13_182_3,2021_13_13_182_3,Yes,,02-Sep-21,2021,Lestidiops ringens,Set 13,N
+2021_13_13_182_4,2021_13_13_182_4,Yes,,02-Sep-21,2021,Lestidiops ringens,Set 13,N
+2021_13_13_182_5,2021_13_13_182_5,Yes,,02-Sep-21,2021,Lestidiops ringens,Set 13,N
+2021_13_13_182_6,2021_13_13_182_6,Yes,,02-Sep-21,2021,Lestidiops ringens,Set 13,N
+2021_13_13_182_7,2021_13_13_182_7,Yes,,02-Sep-21,2021,Lestidiops ringens,Set 13,N
+2021_13_13_182_8,2021_13_13_182_8,Yes,,02-Sep-21,2021,Lestidiops ringens,Set 13,N
+2021_13_13_182_9,2021_13_13_182_9,Yes,,02-Sep-21,2021,Lestidiops ringens,Set 13,N
+2021_13_13_182_10,2021_13_13_182_10,Yes,,02-Sep-21,2021,Lestidiops ringens,Set 13,N
+2021_13_13_182_12,2021_13_13_182_12,Yes,,02-Sep-21,2021,Lestidiops ringens,Set 13,N
+2021_13_13_180_1,2021_13_13_180_1,Yes,,02-Sep-21,2021,Lestidiops ringens,Set 13,N
+2021_13_13_180_2,2021_13_13_180_2,Yes,,02-Sep-21,2021,Lestidiops ringens,Set 13,N
+2021_13_13_180_3,2021_13_13_180_3,Yes,,02-Sep-21,2021,Lestidiops ringens,Set 13,N
+2022_14_234_2,2022_14_234_2,Yes,,28-Aug-22,2022,Lycodapus,Set 14,N
+2022_14_234_6,2022_14_234_6,Yes,,28-Aug-22,2022,Lycodapus,Set 14,N
+2022_14_234_7,2022_14_234_7,Yes,,28-Aug-22,2022,Lycodapus,Set 14,N
+2022_14_234_8,2022_14_234_8,Yes,,28-Aug-22,2022,Lycodapus,Set 14,N
+2022_14_234_1,2022_14_234_1,No,,28-Aug-22,2022,Lycodapus mandibularis,Set 14,Y
+2022_14_234_3,2022_14_234_3,No,,28-Aug-22,2022,Lycodapus mandibularis,Set 14,Y
+2022_14_234_4,2022_14_234_4,No,,28-Aug-22,2022,Lycodapus mandibularis,Set 14,Y
+2022_14_234_5,2022_14_234_5,No,,28-Aug-22,2022,Lycodapus mandibularis,Set 14,Y
+2022_21_UNK_1,2022_21_UNK_1,Yes,,02-Sep-22,2022,Melamphaes lugubris,Set 21,N
+2022_21_UNK_2,2022_21_UNK_2,Yes,,02-Sep-22,2022,Melamphaes lugubris,Set 21,N
+2021_13_12_185_9,2021_13_12_185_9,No,,01-Sep-21,2021,Myctophidae,Set 12,Y
+2021_13_18_197_7,2021_13_18_197_7,No,,09-Sep-21,2021,Myctophidae,Set 18,Y
+2021_13_18_197_8,2021_13_18_197_8,No,,09-Sep-21,2021,Myctophidae,Set 18,Y
+2022_15_UNK_1,2022_15_UNK_1,Yes,,29-Aug-22,2022,Nansenia,Set 15,N
+2022_15_UNK_2,2022_15_UNK_2,Yes,,29-Aug-22,2022,Nansenia,Set 15,N
+2022_17_136_1,2022_17_136_1,Yes,,30-Aug-22,2022,Nansenia,Set 17,N
+2022_17_136_2,2022_17_136_2,Yes,,30-Aug-22,2022,Nansenia,Set 17,N
+2022_17_136_3,2022_17_136_3,Yes,,30-Aug-22,2022,Nansenia,Set 17,N
+2022_18_842_1,2022_18_842_1,Yes,,31-Aug-22,2022,Nansenia,Set 18,N
+2022_18_152_1,2022_18_152_1,Yes,,31-Aug-22,2022,Nansenia,Set 18,N
+2022_18_152_2,2022_18_152_2,Yes,,31-Aug-22,2022,Nansenia,Set 18,N
+2022_18_152_3,2022_18_152_3,Yes,,31-Aug-22,2022,Nansenia,Set 18,N
+2022_18_152_4,2022_18_152_4,Yes,,31-Aug-22,2022,Nansenia,Set 18,N
+2022_18_152_5,2022_18_152_5,Yes,,31-Aug-22,2022,Nansenia,Set 18,N
+2022_20_136_1,2022_20_136_1,Yes,,01-Sep-22,2022,Nansenia,Set 20,N
+2022_20_136_2,2022_20_136_2,Yes,,01-Sep-22,2022,Nansenia,Set 20,N
+2022_21_136_1,2022_21_136_1,Yes,,02-Sep-22,2022,Nansenia,Set 21,N
+2021_13_18_197_4,2021_13_18_197_4,Yes,,09-Sep-21,2021,Notoscopelus,Set 18,N
+2021_MQ_196_3,2021_MQ_196_3,Yes,,,2021,Protomyctophum thompsoni,WCVI 2021_exact location unknown,N
+2021_MQ_196_1,2021_MQ_196_1,Yes,,,2021,Protomyctophum thompsoni,WCVI 2021_exact location unknown,N
+2021_MQ_196_2,2021_MQ_196_2,No,,,2021,Protomyctophum thompsoni,WCVI 2021_exact location unknown,Y
+2022_21_152_2,2022_21_152_2,No,,02-Sep-22,2022,Pseudobathylagus milleri,Set 21,Y
+2022_21_152_4,2022_21_152_4,No,,02-Sep-22,2022,Pseudobathylagus milleri,Set 21,Y
+2022_21_152_7,2022_21_152_7,Yes,,02-Sep-22,2022,Pseudobathylagus milleri,Set 21,N
+2022_21_152_8,2022_21_152_8,Yes,,02-Sep-22,2022,Pseudobathylagus milleri,Set 21,N
+2022_15_152_1,2022_15_152_1,Yes,,,2022,Pseudobathylagus milleri,Set 15,N
+2022_15_152_3,2022_15_152_3,Yes,,,2022,Pseudobathylagus milleri,Set 15,N
+2021_13_18_173_1a,2021_13_18_173_1,Yes,,09-Sep-21,2021,Sagamichthys abei,Set 18,N
+2021_13_18_173_1b,2021_13_18_173_1,Yes,,09-Sep-21,2021,Sagamichthys abei,Set 18,N
+2022_17_152_1,2022_17_152_1,Yes,,30-Aug-22,2022,Sagamichthys abei,Set 17,N
+2021_13_1_185_1,2021_13_1_185_1,Yes,,21-Aug-21,2021,Stenobrachius leucopsarus,Set 1,N
+2021_13_1_185_2,2021_13_1_185_2,Yes,,21-Aug-21,2021,Stenobrachius leucopsarus,Set 1,N
+2021_13_1_185_4,2021_13_1_185_4,Yes,,21-Aug-21,2021,Stenobrachius leucopsarus,Set 1,N
+2021_13_12_185_11,2021_13_12_185_11,Yes,,01-Sep-21,2021,Stenobrachius leucopsarus,Set 12,N
+2021_13_12_189_6,2021_13_12_189_6,Yes,,01-Sep-21,2021,Stenobrachius leucopsarus,Set 12,N
+2021_13_13_197_1,2021_13_13_197_1,Yes,,02-Sep-21,2021,Stenobrachius leucopsarus,Set 13,N
+2021_13_13_197_4,2021_13_13_197_4,Yes,,02-Sep-21,2021,Stenobrachius leucopsarus,Set 13,N
+2021_13_13_197_6,2021_13_13_197_6,Yes,,02-Sep-21,2021,Stenobrachius leucopsarus,Set 13,N
+2021_13_13_197_7,2021_13_13_197_7,Yes,,02-Sep-21,2021,Stenobrachius leucopsarus,Set 13,N
+2021_13_13_197_10,2021_13_13_197_10,Yes,,02-Sep-21,2021,Stenobrachius leucopsarus,Set 13,N
+2021_13_18_197_2,2021_13_18_197_2,Yes,,09-Sep-21,2021,Stenobrachius leucopsarus,Set 18,N
+2021_13_18_197_3,2021_13_18_197_3,Yes,,09-Sep-21,2021,Stenobrachius leucopsarus,Set 18,N
+2021_13_18_197_5,2021_13_18_197_5,Yes,,09-Sep-21,2021,Stenobrachius leucopsarus,Set 18,N
+2021_13_18_197_6,2021_13_18_197_6,Yes,,09-Sep-21,2021,Stenobrachius leucopsarus,Set 18,N
+2021_13_2_185_1,2021_13_2_185_1,Yes,,22-Aug-21,2021,Stenobrachius leucopsarus,Set 2,N
+2021_13_2_185_2,2021_13_2_185_2,Yes,,22-Aug-21,2021,Stenobrachius leucopsarus,Set 2,N
+2021_13_2_185_4,2021_13_2_185_4,Yes,,22-Aug-21,2021,Stenobrachius leucopsarus,Set 2,N
+2021_13_2_185_5,2021_13_2_185_5,Yes,,22-Aug-21,2021,Stenobrachius leucopsarus,Set 2,N
+2021_13_2_185_7,2021_13_2_185_7,Yes,,22-Aug-21,2021,Stenobrachius leucopsarus,Set 2,N
+2021_13_2_185_8,2021_13_2_185_8,Yes,,22-Aug-21,2021,Stenobrachius leucopsarus,Set 2,N
+2021_13_2_185_9,2021_13_2_185_9,Yes,,22-Aug-21,2021,Stenobrachius leucopsarus,Set 2,N
+2021_13_2_185_10,2021_13_2_185_10,Yes,,22-Aug-21,2021,Stenobrachius leucopsarus,Set 2,N
+2021_13_3_185_1,2021_13_3_185_1,Yes,,23-Aug-21,2021,Stenobrachius leucopsarus,Set 3,N
+2021_13_4_185_1,2021_13_4_185_1,Yes,,24-Aug-21,2021,Stenobrachius leucopsarus,Set 4,N
+2021_13_4_185_2,2021_13_4_185_2,Yes,,24-Aug-21,2021,Stenobrachius leucopsarus,Set 4,N
+2021_13_4_185_3,2021_13_4_185_3,Yes,,24-Aug-21,2021,Stenobrachius leucopsarus,Set 4,N
+2021_13_4_185_4,2021_13_4_185_4,Yes,,24-Aug-21,2021,Stenobrachius leucopsarus,Set 4,N
+2021_13_4_185_5,2021_13_4_185_5,Yes,,24-Aug-21,2021,Stenobrachius leucopsarus,Set 4,N
+2021_13_4_185_6,2021_13_4_185_6,Yes,,24-Aug-21,2021,Stenobrachius leucopsarus,Set 4,N
+2021_13_4_185_7,2021_13_4_185_7,Yes,,24-Aug-21,2021,Stenobrachius leucopsarus,Set 4,N
+2021_13_4_185_8,2021_13_4_185_8,Yes,,24-Aug-21,2021,Stenobrachius leucopsarus,Set 4,N
+2021_13_4_185_9,2021_13_4_185_9,Yes,,24-Aug-21,2021,Stenobrachius leucopsarus,Set 4,N
+2021_13_4_185_10,2021_13_4_185_10,Yes,,24-Aug-21,2021,Stenobrachius leucopsarus,Set 4,N
+2021_13_4_185_11,2021_13_4_185_11,Yes,,24-Aug-21,2021,Stenobrachius leucopsarus,Set 4,N
+2021_MQ_198_3A,2021_MQ_198_3A,No,,,2021,Stenobrachius leucopsarus,WCVI 2021_exact location unknown,Y
+2021_MQ_198_2,2021_MQ_198_2,Yes,,,2021,Stenobrachius leucopsarus,WCVI 2021_exact location unknown,N
+2021_MQ_193_3B,2021_MQ_193_3B,Yes,Yes,,2021,Stenobrachius leucopsarus,WCVI 2021_exact location unknown,Y
+2021_MQ_193_2,2021_MQ_193_2,Yes,Yes,,2021,Stenobrachius leucopsarus,WCVI 2021_exact location unknown,Y
+2021_MQ_198_1,2021_MQ_198_1,No,,,2021,Stenobrachius leucopsarus,WCVI 2021_exact location unknown,Y
+2022_19_199_1,2022_19_199_1,Yes,Yes,01-Sep-22,2022,Stenobrachius leucopsarus,Set 19,Y
+2022_20_197_3,2022_20_197_3,Yes,,01-Sep-22,2022,Stenobrachius leucopsarus,Set 20,N
+2022_21_196_3,2022_21_196_3,Yes,Yes,02-Sep-22,2022,Stenobrachius leucopsarus,Set 21,Y
+2022_21_199_1,2022_21_199_1,Yes,Yes,02-Sep-22,2022,Stenobrachius nannochir,Set 21,Y
+2022_21_199_2,2022_21_199_2,Yes,Yes,02-Sep-22,2022,Stenobrachius nannochir,Set 21,Y
+2022_21_199_3,2022_21_199_3,Yes,Yes,02-Sep-22,2022,Stenobrachius nannochir,Set 21,Y
+2021_13_1_185_3,2021_13_1_185_3,Yes,,21-Aug-21,2021,Symbolophorus californiensis,Set 1,N
+2021_MQ_200_4,2021_MQ_200_4,Yes,,,2021,Symbolophorus californiensis,WCVI 2021_exact location unknown,N
+2021_MQ_200_2,2021_MQ_200_2,Yes,,,2021,Symbolophorus californiensis,WCVI 2021_exact location unknown,N
+2021_MQ_200_3,2021_MQ_200_3,Yes,,,2021,Symbolophorus californiensis,WCVI 2021_exact location unknown,N
+2021_MQ_200_1,2021_MQ_200_1,No,,,2021,Symbolophorus californiensis,WCVI 2021_exact location unknown,Y
+2022_21_196_1,2022_21_196_1,Yes,,02-Sep-22,2022,Symbolophorus californiensis,Set 21,N
+2021_13_12_843_1,2021_13_12_843_1,Yes,,01-Sep-21,2021,Tactostoma macropus,Set 12,N
+2021_13_13_167_1,2021_13_13_167_1,Yes,,02-Sep-21,2021,Tactostoma macropus,Set 13,N
+2021_13_13_167_2,2021_13_13_167_2,Yes,,02-Sep-21,2021,Tactostoma macropus,Set 13,N
+2021_13_13_167_3,2021_13_13_167_3,Yes,,02-Sep-21,2021,Tactostoma macropus,Set 13,N
+2021_13_13_167_4,2021_13_13_167_4,Yes,,02-Sep-21,2021,Tactostoma macropus,Set 13,N
+2021_13_13_167_5,2021_13_13_167_5,Yes,,02-Sep-21,2021,Tactostoma macropus,Set 13,N
+2021_13_13_167_6,2021_13_13_167_6,Yes,,02-Sep-21,2021,Tactostoma macropus,Set 13,N
+2021_13_13_167_7,2021_13_13_167_7,Yes,,02-Sep-21,2021,Tactostoma macropus,Set 13,N
+2021_13_13_167_8,2021_13_13_167_8,Yes,,02-Sep-21,2021,Tactostoma macropus,Set 13,N
+2021_13_13_167_9,2021_13_13_167_9,Yes,,02-Sep-21,2021,Tactostoma macropus,Set 13,N
+2021_13_13_167_10,2021_13_13_167_10,Yes,,02-Sep-21,2021,Tactostoma macropus,Set 13,N
+2021_13_13_167_11,2021_13_13_167_11,Yes,,02-Sep-21,2021,Tactostoma macropus,Set 13,N
+2021_13_13_167_12,2021_13_13_167_12,Yes,,02-Sep-21,2021,Tactostoma macropus,Set 13,N
+2021_13_18_167_1,2021_13_18_167_1,Yes,,09-Sep-21,2021,Tactostoma macropus,Set 18,N
+2021_13_18_167_2,2021_13_18_167_2,Yes,,09-Sep-21,2021,Tactostoma macropus,Set 18,N
+2021_13_18_167_3,2021_13_18_167_3,Yes,,09-Sep-21,2021,Tactostoma macropus,Set 18,N
+2021_13_18_167_4,2021_13_18_167_4,Yes,,09-Sep-21,2021,Tactostoma macropus,Set 18,N
+2021_13_18_167_5,2021_13_18_167_5,Yes,,09-Sep-21,2021,Tactostoma macropus,Set 18,N
+2021_13_1_185_5,2021_13_1_185_5,Yes,,21-Aug-21,2021,Tarletonbeania crenularis,Set 1,N
+2022_18_202_1,2022_18_202_1,Yes,,31-Aug-22,2022,Tarletonbeania crenularis,Set 18,N
+2022_18_202_2,2022_18_202_2,Yes,,31-Aug-22,2022,Tarletonbeania crenularis,Set 18,N
+2022_18_202_3,2022_18_202_3,Yes,,31-Aug-22,2022,Tarletonbeania crenularis,Set 18,N
+2022_18_202_4,2022_18_202_4,Yes,,31-Aug-22,2022,Tarletonbeania crenularis,Set 18,N
+2022_18_202_5,2022_18_202_5,Yes,,31-Aug-22,2022,Tarletonbeania crenularis,Set 18,N
+2022_18_202_6,2022_18_202_6,Yes,,31-Aug-22,2022,Tarletonbeania crenularis,Set 18,N
+2022_18_202_7,2022_18_202_7,Yes,,31-Aug-22,2022,Tarletonbeania crenularis,Set 18,N
+2022_18_202_8,2022_18_202_8,Yes,,31-Aug-22,2022,Tarletonbeania crenularis,Set 18,N
+2022_18_202_9,2022_18_202_9,Yes,,31-Aug-22,2022,Tarletonbeania crenularis,Set 18,N
+2022_18_202_10,2022_18_202_10,Yes,,31-Aug-22,2022,Tarletonbeania crenularis,Set 18,N
+2022_21_202_1,2022_21_202_1,Yes,,02-Sep-22,2022,Tarletonbeania crenularis,Set 21,N
+2022_21_202_2,2022_21_202_2,Yes,,02-Sep-22,2022,Tarletonbeania crenularis,Set 21,N
+2022_21_202_3,2022_21_202_3,Yes,,02-Sep-22,2022,Tarletonbeania crenularis,Set 21,N
+2022_21_202_4,2022_21_202_4,Yes,,02-Sep-22,2022,Tarletonbeania crenularis,Set 21,N
+2022_21_202_5,2022_21_202_5,Yes,,02-Sep-22,2022,Tarletonbeania crenularis,Set 21,N
+2022_21_202_6,2022_21_202_6,Yes,,02-Sep-22,2022,Tarletonbeania crenularis,Set 21,N
+2022_21_202_7,2022_21_202_7,Yes,,02-Sep-22,2022,Tarletonbeania crenularis,Set 21,N
+2022_21_202_8,2022_21_202_8,Yes,,02-Sep-22,2022,Tarletonbeania crenularis,Set 21,N
+2022_21_202_9,2022_21_202_9,Yes,,02-Sep-22,2022,Tarletonbeania crenularis,Set 21,N
+2022_21_202_10,2022_21_202_10,Yes,,02-Sep-22,2022,Tarletonbeania crenularis,Set 21,N
