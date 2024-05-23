@@ -160,10 +160,10 @@ Sample ID,Field ID,Barcode Compliant,Flagged Record,Collection Date,Year,Identif
 2022_14_234_6,2022_14_234_6,Yes,,28-Aug-22,2022,Lycodapus,Set 14,N
 2022_14_234_7,2022_14_234_7,Yes,,28-Aug-22,2022,Lycodapus,Set 14,N
 2022_14_234_8,2022_14_234_8,Yes,,28-Aug-22,2022,Lycodapus,Set 14,N
-2022_14_234_1,2022_14_234_1,No,,28-Aug-22,2022,Lycodapus mandibularis,Set 14,Y
-2022_14_234_3,2022_14_234_3,No,,28-Aug-22,2022,Lycodapus mandibularis,Set 14,Y
-2022_14_234_4,2022_14_234_4,No,,28-Aug-22,2022,Lycodapus mandibularis,Set 14,Y
-2022_14_234_5,2022_14_234_5,No,,28-Aug-22,2022,Lycodapus mandibularis,Set 14,Y
+2022_14_234_1,2022_14_234_1,Yes,,28-Aug-22,2022,Lycodapus mandibularis,Set 14,Y
+2022_14_234_3,2022_14_234_3,Yes,,28-Aug-22,2022,Lycodapus mandibularis,Set 14,Y
+2022_14_234_4,2022_14_234_4,Yes,,28-Aug-22,2022,Lycodapus mandibularis,Set 14,Y
+2022_14_234_5,2022_14_234_5,Yes,,28-Aug-22,2022,Lycodapus mandibularis,Set 14,Y
 2022_21_UNK_1,2022_21_UNK_1,Yes,,02-Sep-22,2022,Melamphaes lugubris,Set 21,N
 2022_21_UNK_2,2022_21_UNK_2,Yes,,02-Sep-22,2022,Melamphaes lugubris,Set 21,N
 2021_13_12_185_9,2021_13_12_185_9,No,,01-Sep-21,2021,Myctophidae,Set 12,Y
